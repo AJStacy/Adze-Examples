@@ -1,0 +1,10 @@
+{
+  "name": "Adze-Examples",
+  "version": "0.0.1",
+  "description": "Examples for using the Adze logging library.",
+  "main": "index.js",
+  "repository": "git@github.com:AJStacy/Adze-Examples.git",
+  "author": "Andrew Stacy <ajstacy@gmail.com>",
+  "license": "APACHE2.0",
+  "private": false
+}

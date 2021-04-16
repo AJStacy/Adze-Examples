@@ -7,11 +7,9 @@
     "allowJs": true,
     "strict": true,
     "lib": ["DOM", "ES2018"],
-    "declaration": true,
-    "declarationDir": "types",
     "preserveConstEnums": true,
     "baseUrl": "."
   },
-  "include": ["src/**/*.ts", "test/**/*.ts"],
+  "include": ["examples/**/*.ts", "test/**/*.ts"],
   "exclude": ["node_modules", "assets"]
 }

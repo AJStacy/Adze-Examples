@@ -7,8 +7,13 @@
   "author": "Andrew Stacy <ajstacy@gmail.com>",
   "license": "APACHE2.0",
   "private": false,
+  "scripts": {
+    "build": "tsc",
+    "demo:browser": "http-server -o -p 8082",
+    "demo:node": "ts-node ./demo.ts"
+  },
   "dependencies": {
-    "adze": "^0.4.0",
+    "adze": "^0.4.2",
     "http-server": "^0.12.3",
     "ts-node": "^9.1.1",
     "typescript": "^4.2.4"

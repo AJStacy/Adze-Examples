@@ -9,10 +9,10 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
-adze@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/adze/-/adze-0.4.0.tgz#9fa9018fe37bd4ed2274cc5d16b9047ec1cff4fd"
-  integrity sha512-Ncw/QA1lAZbujU7qISjgD6SQMrE3uG/DclzVxNdHzSG7hmEkKvJXWxREykG7R43V6TLvxGhkTqicxMksCOfV6w==
+adze@^0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/adze/-/adze-0.4.2.tgz#dc117026b2504b874c0add3297e56922db0182dc"
+  integrity sha512-/i4jTWdpCPo+i7WN/Q8ma7bidaalSp2HpTNc8HqHCIZNr1v5xPq2q3+CMonSoHgVzIdWhpGY/jkK0mYmYHiEFg==
   dependencies:
     "@babel/runtime" "^7.3.4"
     browser-process-hrtime "^1.0.0"
